@@ -1,0 +1,4 @@
+# Step 8: deliberate inconsistency test (2026-10-17)
+$ robot merge --input cco-module.ttl --input meeting-mandate.ttl --input test-individuals.ttl --input tests/bad-mandate-person.ttl reason --reasoner hermit --output tests/bad-out.ttl
+2026-10-17 11:34:19,145 ERROR org.obolibrary.robot.ReasonerHelper - The ontology is inconsistent. TIP: use a tool like Protege to find explanations
+exit code: 1

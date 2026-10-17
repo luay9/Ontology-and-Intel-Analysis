@@ -28,3 +28,4 @@ http://purl.obolibrary.org/obo/BFO_0000178 # has continuant part
 http://purl.obolibrary.org/obo/BFO_0000196 # bearer of
 https://www.commoncoreontologies.org/ont00001816 # is output of
 http://purl.obolibrary.org/obo/BFO_0000132 # occurrent part of
+http://purl.obolibrary.org/obo/BFO_0000115 # has member part

@@ -1,0 +1,8 @@
+mandate,types
+https://github.com/luay9/meeting-mandate#m01_v1_0,generically dependent continuant | continuant | entity | mandate | Process Regulation | Prescriptive Information Content Entity | Information Content Entity
+https://github.com/luay9/meeting-mandate#m01_v1_1,continuant | mandate | Prescriptive Information Content Entity | generically dependent continuant | Process Regulation | entity | Information Content Entity
+https://github.com/luay9/meeting-mandate#m02_v1_0,entity | Information Content Entity | Prescriptive Information Content Entity | mandate | continuant | Process Regulation | generically dependent continuant
+https://github.com/luay9/meeting-mandate#m05_v1_0,generically dependent continuant | continuant | Process Regulation | Information Content Entity | mandate | Prescriptive Information Content Entity | entity
+https://github.com/luay9/meeting-mandate#m05_v1_1,Information Content Entity | entity | continuant | Prescriptive Information Content Entity | Process Regulation | mandate | generically dependent continuant
+https://github.com/luay9/meeting-mandate#m06_v1_0,entity | Process Regulation | continuant | generically dependent continuant | mandate | Prescriptive Information Content Entity | Information Content Entity
+https://github.com/luay9/meeting-mandate#m06_v1_1,entity | continuant | Process Regulation | Prescriptive Information Content Entity | Information Content Entity | generically dependent continuant | mandate
