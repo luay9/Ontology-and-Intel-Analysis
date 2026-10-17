@@ -1,0 +1,27 @@
+# Luay Assidmi (luay9): graduate track
+
+**Pattern:** Meeting & Mandate. An ontology design pattern for executive meetings, the directives (mandates) they produce, and the documents that carry them. It's built so that a directive the chair has had to issue twice becomes a signal derivable from the graph.
+
+**Why it's intelligence analysis:** an executive who sets priorities, collection fragmented across many committee files, and no analytic layer between them is a strategic intelligence problem. The pattern is the structure for that analytic layer.
+
+## Contents
+
+| Folder | What's in it | Status |
+|---|---|---|
+| [`presentation-1/`](presentation-1/) | Proposal deck (v2, revised with course material), design pattern, BPMN, Design Pattern Assistant workings | Presentation 1 recorded 2026-09-29; revision 2026-10-17 |
+| [`presentation-1/course-reflection/`](presentation-1/course-reflection/) | How course readings changed the proposal: definition tests, Document Acts, IAO alignment | Done |
+| [`final-project/`](final-project/) | Ontology (`.ttl`) and the 7-part final project packet | Not started: next step |
+
+## Method
+
+1. My own definition in words, with no BFO/CCO lens
+2. BPMN process map
+3. Sort entities into the seven rules-of-thumb slots
+4. Look up BFO/CCO terms for each item
+5. Design pattern workshop in Mermaid
+
+Steps 3–5 are co-authored with a Design Pattern Assistant: an AI agent that looks up every term in an index built from CCO v2.2 and lints each pattern for term existence and domain/range. Its workings are in `presentation-1/design-pattern-assistant/`.
+
+## Data
+
+All instance data here is **synthetic**. The pattern was developed against real internal files, which are not published, in line with the course's sensitive-information policy.
