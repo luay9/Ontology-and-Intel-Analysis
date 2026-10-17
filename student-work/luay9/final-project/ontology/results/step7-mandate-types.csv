@@ -1,8 +1,50 @@
-mandate,types
-https://github.com/luay9/meeting-mandate#m01_v1_0,generically dependent continuant | continuant | entity | mandate | Process Regulation | Prescriptive Information Content Entity | Information Content Entity
-https://github.com/luay9/meeting-mandate#m01_v1_1,continuant | mandate | Prescriptive Information Content Entity | generically dependent continuant | Process Regulation | entity | Information Content Entity
-https://github.com/luay9/meeting-mandate#m02_v1_0,entity | Information Content Entity | Prescriptive Information Content Entity | mandate | continuant | Process Regulation | generically dependent continuant
-https://github.com/luay9/meeting-mandate#m05_v1_0,generically dependent continuant | continuant | Process Regulation | Information Content Entity | mandate | Prescriptive Information Content Entity | entity
-https://github.com/luay9/meeting-mandate#m05_v1_1,Information Content Entity | entity | continuant | Prescriptive Information Content Entity | Process Regulation | mandate | generically dependent continuant
-https://github.com/luay9/meeting-mandate#m06_v1_0,entity | Process Regulation | continuant | generically dependent continuant | mandate | Prescriptive Information Content Entity | Information Content Entity
-https://github.com/luay9/meeting-mandate#m06_v1_1,entity | continuant | Process Regulation | Prescriptive Information Content Entity | Information Content Entity | generically dependent continuant | mandate
+mandate,type
+mandate M01 v1.0 (scope),Information Content Entity
+mandate M01 v1.0 (scope),Prescriptive Information Content Entity
+mandate M01 v1.0 (scope),Process Regulation
+mandate M01 v1.0 (scope),continuant
+mandate M01 v1.0 (scope),entity
+mandate M01 v1.0 (scope),generically dependent continuant
+mandate M01 v1.0 (scope),mandate
+"mandate M01 v1.1 (scope, narrowed)",Information Content Entity
+"mandate M01 v1.1 (scope, narrowed)",Prescriptive Information Content Entity
+"mandate M01 v1.1 (scope, narrowed)",Process Regulation
+"mandate M01 v1.1 (scope, narrowed)",continuant
+"mandate M01 v1.1 (scope, narrowed)",entity
+"mandate M01 v1.1 (scope, narrowed)",generically dependent continuant
+"mandate M01 v1.1 (scope, narrowed)",mandate
+mandate M02 v1.0 (incentive terms),Information Content Entity
+mandate M02 v1.0 (incentive terms),Prescriptive Information Content Entity
+mandate M02 v1.0 (incentive terms),Process Regulation
+mandate M02 v1.0 (incentive terms),continuant
+mandate M02 v1.0 (incentive terms),entity
+mandate M02 v1.0 (incentive terms),generically dependent continuant
+mandate M02 v1.0 (incentive terms),mandate
+mandate M05 v1.0 (roles),Information Content Entity
+mandate M05 v1.0 (roles),Prescriptive Information Content Entity
+mandate M05 v1.0 (roles),Process Regulation
+mandate M05 v1.0 (roles),continuant
+mandate M05 v1.0 (roles),entity
+mandate M05 v1.0 (roles),generically dependent continuant
+mandate M05 v1.0 (roles),mandate
+mandate M05 v1.1 (roles + KPIs),Information Content Entity
+mandate M05 v1.1 (roles + KPIs),Prescriptive Information Content Entity
+mandate M05 v1.1 (roles + KPIs),Process Regulation
+mandate M05 v1.1 (roles + KPIs),continuant
+mandate M05 v1.1 (roles + KPIs),entity
+mandate M05 v1.1 (roles + KPIs),generically dependent continuant
+mandate M05 v1.1 (roles + KPIs),mandate
+mandate M06 v1.0 (operating model),Information Content Entity
+mandate M06 v1.0 (operating model),Prescriptive Information Content Entity
+mandate M06 v1.0 (operating model),Process Regulation
+mandate M06 v1.0 (operating model),continuant
+mandate M06 v1.0 (operating model),entity
+mandate M06 v1.0 (operating model),generically dependent continuant
+mandate M06 v1.0 (operating model),mandate
+"mandate M06 v1.1 (operating model, gaps + resubmit)",Information Content Entity
+"mandate M06 v1.1 (operating model, gaps + resubmit)",Prescriptive Information Content Entity
+"mandate M06 v1.1 (operating model, gaps + resubmit)",Process Regulation
+"mandate M06 v1.1 (operating model, gaps + resubmit)",continuant
+"mandate M06 v1.1 (operating model, gaps + resubmit)",entity
+"mandate M06 v1.1 (operating model, gaps + resubmit)",generically dependent continuant
+"mandate M06 v1.1 (operating model, gaps + resubmit)",mandate
