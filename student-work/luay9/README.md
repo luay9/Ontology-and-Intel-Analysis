@@ -12,6 +12,16 @@
 | [`presentation-1/course-reflection/`](presentation-1/course-reflection/) | How course readings changed the proposal: definition tests, Document Acts, IAO alignment | Done |
 | [`final-project/`](final-project/) | Ontology (`.ttl`) and the 7-part final project packet | Not started: next step |
 
+## Plan
+
+| When | What | Where it's submitted |
+|---|---|---|
+| 2026-10-17 (Week 8) | Proposal revised with course material; v2 deck + speaker notes; `.ttl` build guide | this folder (work-in-progress PR) |
+| Week 9 (Oct 19–25) | `.ttl` v0.1: pattern classes, synthetic data, reasoner + CQ queries | this folder |
+| Week 10 (Oct 26–Nov 1) | **Presentation 2**: v2 deck + implementation and testing slides | recording link in GitHub Discussions |
+| Weeks 11–14 | Final project packet (7 parts), revisions from feedback | this folder |
+| Week 15 (Nov 30–Dec 6) | **Final Project** submitted | pull request |
+
 ## Method
 
 1. My own definition in words, with no BFO/CCO lens

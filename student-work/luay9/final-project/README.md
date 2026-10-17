@@ -1,10 +1,10 @@
 # Final Project: Meeting & Mandate ontology (in progress)
 
-Not started yet. This folder will hold the packet required by [`assignments/final-project.md`](../../../assignments/final-project.md):
+Not started yet. **How to build it: [`TTL-BUILD-GUIDE.md`](TTL-BUILD-GUIDE.md)** (step by step, with ROBOT commands tested on 2026-10-17). This folder will hold the packet required by [`assignments/final-project.md`](../../../assignments/final-project.md):
 
 | # | Item | Planned file |
 |---|---|---|
-| 1 | Ontology artifact | `ontology/meeting-mandate.ttl` (imports BFO + CCO; IAO aligned with `skos:closeMatch`) |
+| 1 | Ontology artifact | `ontology/meeting-mandate.ttl` (uses an extracted BFO + CCO module; IAO aligned with `skos:closeMatch`) |
 | 2 | Problem statement | `01-problem.md` |
 | 3 | Scope statement | `02-scope.md` |
 | 4 | Competency questions | `03-competency-questions.md` + SPARQL in `ontology/queries/` |

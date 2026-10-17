@@ -3,6 +3,7 @@
 | File | What it is |
 |---|---|
 | [`Assidmi_Luay_Design_Pattern_Final_Project_1_slides_v2.pdf`](Assidmi_Luay_Design_Pattern_Final_Project_1_slides_v2.pdf) | **The deck, revised 2026-10-17.** Read this first. (`.pptx` alongside) |
+| [`speaker-notes.md`](speaker-notes.md) | Script for each slide with timings (about 11 min). Also in the .pptx notes |
 | [`course-reflection/01-definition.md`](course-reflection/01-definition.md) | Step 1: my definition tested against *Military Intelligence Part 1* (definitions as ⟨T, E⟩, counterexamples, negative language), with the v2 definitions |
 | [`course-reflection/02-document-acts.md`](course-reflection/02-document-acts.md) | Steps 2 and 5: *Document Acts* applied. Deciding (speech act) and documenting (document act) are split, and the mandate identifier is added. Revised pattern + lint |
 | [`course-reflection/03-file-engineering-iao-alignment.md`](course-reflection/03-file-engineering-iao-alignment.md) | File Engineering (the method behind the pattern) aligned to IAO, following IAO-Intel. Synthetic timeline |
